@@ -1,0 +1,6 @@
+@Identity_DataProtection_Jwt_HostAddress = http://localhost:5116
+
+GET {{Identity_DataProtection_Jwt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
